@@ -934,5 +934,167 @@ export const exampleFile = {
 				"streamMute": false
 			}
 		]
+	},
+	"1734944094726": {
+		"folderName": "Effects",
+		"folderColor": "#ff0000",
+		"id": 1734944094726,
+		"streams": [
+			{
+				"streamName": "Dark Witch",
+				"streamIcon": "😕",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 4,
+				"id": 1468,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=yjLtWh5LWgY",
+						"volume": 100,
+						"id": 5421,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Dark Dungeon",
+				"streamIcon": "😕",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 4307,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=CDWtH8eHeEU&t=2580s",
+						"volume": 100,
+						"id": 1368,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Fairy Lands",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 5647,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=syp6Lsd8HOo&t=3390s",
+						"volume": 100,
+						"id": 3784,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Fairy City",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 5263,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=QejkDjEgbr0&t=1183s",
+						"volume": 100,
+						"id": 7223,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Tavern Party",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 3102,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=D02-tXFkgCI&t=375s",
+						"volume": 100,
+						"id": 1225,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Tavern Relaxed",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 9558,
+				"folderId": 1734944094726,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "GB",
+						"link": "https://www.youtube.com/watch?v=bXT96SVp0jg&t=847s",
+						"volume": 100,
+						"id": 7405,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					},
+					{
+						"name": "Chatter",
+						"link": "https://www.youtube.com/watch?v=KecVJnJcSI4",
+						"mute": false,
+						"volume": 11,
+						"id": 4036,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 8,
+						"playing": false
+					}
+				]
+			}
+		]
 	}
 };
