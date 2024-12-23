@@ -1,5 +1,5 @@
 ---
-title: DJinni Music Player
+title: DJinni Music Player FORK
 description: "Mix sound effects and music with looping, fading, and more to provide an immersive experience!"
 author: Keegan
 image: https://raw.githubusercontent.com/kgbergman/music-player/main/docs/header.jpg

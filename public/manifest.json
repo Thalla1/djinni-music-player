@@ -1,12 +1,12 @@
 {
-  "name": "DJinni Music Player",
-  "version": "1.0.2",
+  "name": "DJinni Music Player FORK",
+  "version": "1.0.0",
   "manifest_version": 1,
-  "author": "Keegan",
+  "author": "ViBo",
   "icon": "/logo.png",
   "description": "Mix sound effects and music with looping, fading, and more to provide an immersive experience!",
   "action": {
-    "title": "DJinni Music Player",
+    "title": "DJinni Music Player FORK",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 400,
