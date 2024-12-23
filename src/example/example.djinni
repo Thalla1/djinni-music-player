@@ -212,7 +212,7 @@
 			{
 				"streamName": "BG Music",
 				"streamIcon": "🔊",
-				"streamVolume": 14,
+				"streamVolume": 46,
 				"streamFade": true,
 				"streamFadeTime": 5,
 				"folderId": 2,
@@ -762,6 +762,176 @@
 					}
 				],
 				"interval": 0
+			}
+		]
+	},
+	"1734942355032": {
+		"folderName": "Monster",
+		"folderColor": "#000000",
+		"id": 1734942355032,
+		"streams": [
+			{
+				"streamName": "Mücken",
+				"streamIcon": "🪰",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6815,
+				"folderId": 1734942355032,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=AMg-IgW7Dzg",
+						"volume": 100,
+						"id": 1521,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 11,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Dragon Roar",
+				"streamIcon": "🐲",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 2,
+				"id": 1823,
+				"folderId": 1734942355032,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=7vFGLgMeMe8",
+						"volume": 100,
+						"id": 9814,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 14,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Wolf howl",
+				"streamIcon": "🐺",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 1,
+				"id": 5315,
+				"folderId": 1734942355032,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=1BwXK3L7OaQ",
+						"volume": 100,
+						"id": 3711,
+						"mute": false,
+						"loop": true,
+						"loop1": 19,
+						"loop2": 30,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "New Stream",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2925,
+				"folderId": 1734942355032,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "",
+						"volume": 100,
+						"id": 8248,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Wolf Knurren",
+				"streamIcon": "🐺",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 2,
+				"id": 194,
+				"folderId": 1734942355032,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "",
+						"link": "https://www.youtube.com/watch?v=E7Iia8DUxrc",
+						"volume": 100,
+						"id": 8375,
+						"mute": false,
+						"loop": true,
+						"loop1": 39,
+						"loop2": 60,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1734942652037": {
+		"folderName": "Spring",
+		"folderColor": "#7fcf63",
+		"id": 1734942652037,
+		"streams": [
+			{
+				"streamName": "BG Music Guitar",
+				"streamIcon": "🎧",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 4,
+				"id": 3808,
+				"folderId": 1734942652037,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "BG",
+						"link": "https://www.youtube.com/watch?v=6ywydpVSP58",
+						"volume": 20,
+						"id": 359,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 3,
+						"playing": false
+					},
+					{
+						"name": "Forest",
+						"link": "https://www.youtube.com/watch?v=H1iboKia3AQ",
+						"mute": false,
+						"volume": 31,
+						"id": 2453,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 10,
+						"playing": false
+					}
+				],
+				"streamMute": false
 			}
 		]
 	}
