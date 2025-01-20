@@ -852,19 +852,7 @@
 				"folderId": 1734942355032,
 				"interval": 0,
 				"playing": false,
-				"streamData": [
-					{
-						"name": "",
-						"link": "",
-						"volume": 100,
-						"id": 8248,
-						"mute": false,
-						"loop": false,
-						"loop1": 20,
-						"loop2": 40,
-						"playing": false
-					}
-				]
+				"streamData": []
 			},
 			{
 				"streamName": "Wolf Knurren",
@@ -1091,6 +1079,199 @@
 						"loop": true,
 						"loop1": 0,
 						"loop2": 8,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1737397746456": {
+		"folderName": "Strahd",
+		"folderColor": "#000000",
+		"id": 1737397746456,
+		"streams": [
+			{
+				"streamName": "Village",
+				"streamIcon": "🏘️",
+				"streamVolume": 53,
+				"streamFade": false,
+				"streamFadeTime": 1,
+				"id": 6083,
+				"folderId": 1737397746456,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "village",
+						"link": "https://www.youtube.com/watch?v=JjcTWko-5yw",
+						"volume": 74,
+						"id": 8720,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 13,
+						"playing": false
+					},
+					{
+						"name": "fog",
+						"link": "https://www.youtube.com/watch?v=kRAFTSe2kQc",
+						"mute": false,
+						"volume": 51,
+						"id": 3230,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 9,
+						"playing": false
+					},
+					{
+						"name": "thunder",
+						"link": "https://www.youtube.com/watch?v=vJ08fwaLXwg",
+						"mute": false,
+						"volume": 71,
+						"id": 9636,
+						"loop": true,
+						"loop1": 46,
+						"loop2": 60,
+						"playing": false
+					},
+					{
+						"name": "sound effects",
+						"link": "https://www.youtube.com/watch?v=BDJ_mP_ktW0&list=RDQMvV4Ttn1fY34&start_radio=1",
+						"mute": false,
+						"volume": 100,
+						"id": 2022,
+						"loop": true,
+						"loop1": 45,
+						"loop2": 60,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Castle",
+				"streamIcon": "🏛️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 956,
+				"folderId": 1737397746456,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "castle",
+						"link": "https://www.youtube.com/watch?v=4ZelokMWpCk",
+						"volume": 100,
+						"id": 3929,
+						"mute": false,
+						"loop": true,
+						"loop1": 11,
+						"loop2": 21,
+						"playing": false
+					},
+					{
+						"name": "thunder",
+						"link": "https://www.youtube.com/watch?v=vJ08fwaLXwg",
+						"mute": false,
+						"volume": 100,
+						"id": 8604,
+						"loop": true,
+						"loop1": 41,
+						"loop2": 59,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Church",
+				"streamIcon": "🕌",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 0,
+				"id": 1379,
+				"folderId": 1737397746456,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "bg",
+						"link": "https://www.youtube.com/watch?v=ai5S-I8ftO4&t=6689s",
+						"volume": 100,
+						"id": 8708,
+						"mute": false,
+						"loop": true,
+						"loop1": 18,
+						"loop2": 33,
+						"playing": false
+					},
+					{
+						"name": "male suffering",
+						"link": "https://www.youtube.com/watch?v=AI2cKUK6Vio",
+						"mute": false,
+						"volume": 66,
+						"id": 7289,
+						"loop": true,
+						"loop1": 7,
+						"loop2": 13,
+						"playing": false
+					},
+					{
+						"name": "scratch",
+						"link": "https://www.youtube.com/watch?v=XVuCNrf29tE",
+						"mute": false,
+						"volume": 15,
+						"id": 1552,
+						"loop": true,
+						"loop1": 7,
+						"loop2": 15,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "wolf howl",
+				"streamIcon": "🐾",
+				"streamVolume": 11,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 9076,
+				"folderId": 1737397746456,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "howl",
+						"link": "https://www.youtube.com/watch?v=iWO3f9GpOSo",
+						"volume": 100,
+						"id": 5418,
+						"mute": false,
+						"loop": true,
+						"loop1": 18,
+						"loop2": 32,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "bats",
+				"streamIcon": "🦇",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 4022,
+				"folderId": 1737397746456,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "bats",
+						"link": "https://www.youtube.com/watch?v=-4_CIMDuoLM",
+						"volume": 100,
+						"id": 6457,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
 						"playing": false
 					}
 				]
