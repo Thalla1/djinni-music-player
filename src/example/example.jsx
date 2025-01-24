@@ -243,7 +243,7 @@ export const exampleFile = {
 			{
 				"streamName": "Creatures",
 				"streamIcon": "🦊",
-				"streamVolume": 51,
+				"streamVolume": 39,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"folderId": 3,
@@ -276,24 +276,13 @@ export const exampleFile = {
 				"streamData": [
 					{
 						"name": "BG Sounds",
-						"link": "https://www.youtube.com/watch?v=VxrH8mUWyGc",
+						"link": "https://www.youtube.com/watch?v=xNN7iTA57jM",
 						"volume": 100,
 						"id": 4140,
 						"mute": false,
 						"loop": true,
 						"loop1": 10,
 						"loop2": 15,
-						"playing": false
-					},
-					{
-						"name": "Creaky Tree",
-						"link": "https://www.youtube.com/watch?v=RK1W9h1MIcA",
-						"mute": false,
-						"volume": 73,
-						"id": 4730,
-						"loop": true,
-						"loop1": 55,
-						"loop2": 60,
 						"playing": false
 					}
 				],
@@ -347,6 +336,30 @@ export const exampleFile = {
 				],
 				"streamMute": true,
 				"interval": 0
+			},
+			{
+				"streamName": "Wolf Howl",
+				"streamIcon": "🐺",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3646,
+				"folderId": 3,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Wolf",
+						"link": "https://www.youtube.com/watch?v=1BwXK3L7OaQ",
+						"volume": 100,
+						"id": 6347,
+						"mute": false,
+						"loop": true,
+						"loop1": 34,
+						"loop2": 56,
+						"playing": false
+					}
+				]
 			}
 		]
 	},
@@ -843,18 +856,6 @@ export const exampleFile = {
 				]
 			},
 			{
-				"streamName": "New Stream",
-				"streamIcon": "😀",
-				"streamVolume": 100,
-				"streamFade": false,
-				"streamFadeTime": 0,
-				"id": 2925,
-				"folderId": 1734942355032,
-				"interval": 0,
-				"playing": false,
-				"streamData": []
-			},
-			{
 				"streamName": "Wolf Knurren",
 				"streamIcon": "🐺",
 				"streamVolume": 100,
@@ -1231,9 +1232,9 @@ export const exampleFile = {
 			{
 				"streamName": "wolf howl",
 				"streamIcon": "🐾",
-				"streamVolume": 11,
+				"streamVolume": 100,
 				"streamFade": true,
-				"streamFadeTime": 3,
+				"streamFadeTime": 1,
 				"id": 9076,
 				"folderId": 1737397746456,
 				"interval": 0,
@@ -1241,7 +1242,7 @@ export const exampleFile = {
 				"streamData": [
 					{
 						"name": "howl",
-						"link": "https://www.youtube.com/watch?v=iWO3f9GpOSo",
+						"link": "https://www.youtube.com/watch?v=oo2LHEst5EU",
 						"volume": 100,
 						"id": 5418,
 						"mute": false,
